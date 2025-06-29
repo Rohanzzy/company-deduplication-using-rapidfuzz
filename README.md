@@ -65,7 +65,7 @@ Data cleaning is one of the most important parts of a data scientist’s job. Th
 
 I’ve also deployed this project on Streamlit Cloud for easy access.
 
-[**View Live App Here**]
+[**View Live App Here**] https://company-deduplication-using-rapidfuzz.streamlit.app/
 
 ---
 
